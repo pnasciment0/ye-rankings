@@ -1,1 +1,2 @@
-#read me coming when im not lazy
+# Hi
+readme coming when im not lazy
